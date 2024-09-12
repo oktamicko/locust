@@ -103,4 +103,4 @@ def on_test_stop(environment, **kwargs):
     # Menghapus file CSV setelah dikirim
     if os.path.exists(csv_filename):
         os.remove(csv_filename)
-        print("File CSV dihapus setelah pengiriman email. ")
+        print("File CSV dihapus setelah pengiriman email.")
