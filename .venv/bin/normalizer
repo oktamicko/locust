@@ -1,4 +1,4 @@
-#!/home/dhyo/Documents/Github/locust/.venv/bin/python3
+#!/home/dhyo/Documents/Github/locust/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
